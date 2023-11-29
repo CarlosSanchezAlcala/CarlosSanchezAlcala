@@ -1,5 +1,5 @@
 <div style="text-align: center">
-  ### Hi there 👋 I'm Carlos Sanchez
+  Hi there 👋 I'm Carlos Sanchez
 </div>
 
 <!--
