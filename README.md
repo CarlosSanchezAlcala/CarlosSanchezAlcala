@@ -1,6 +1,4 @@
-<div style="text-align: center">
-  Hi there 👋 I'm Carlos Sanchez
-</div>
+### Hi there 👋 I'm Carlos Sanchez
 
 <!--
 **CarlosSanchezAlcala/CarlosSanchezAlcala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
