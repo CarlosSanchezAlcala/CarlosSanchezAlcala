@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### Technologies
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) <img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px">
+  ![Java](https://img.shields.io/badge/-Java-333333?style=<img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px">)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
