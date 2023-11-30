@@ -24,15 +24,15 @@ Here are some ideas to get you started:
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  <!-- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) -->
+  <!-- ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux) -->
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  <!-- ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express) -->
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  <!-- ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize) -->
+  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB) -->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=CarlosSanchezAlcala)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSanchezAlcala&layout=compact)
