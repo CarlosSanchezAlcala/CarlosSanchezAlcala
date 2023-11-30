@@ -19,14 +19,9 @@ Here are some ideas to get you started:
 
 ### Technologies
   <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px">
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="21px" height="21px">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px">
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=CarlosSanchezAlcala)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSanchezAlcala&layout=compact)
